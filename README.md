@@ -36,7 +36,7 @@
 ---
 
 ## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoang.anh.182242) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanh05) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nha261105@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1058334582786752615)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoang.anh.182242) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanh05) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nha261105@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1058334582786752615) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](https://open.spotify.com/user/3177b6o5mok5sx4aubtuts2o3ng4?si=1cfa3f609846457b) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)]()
 
 <br clear="right"/>
 
