@@ -5,17 +5,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Anh</h1>
 <h3 align="center">🚀 Aspiring Backend Engineer & Cloud Native Enthusiast</h3>
 
-<div align="center">
-  
-  <a href="https://github.com/nha261105">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=nha261105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nha261105">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nha261105&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
-  </a>
-
-</div>
-
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
