@@ -19,7 +19,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nha261105&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nha261105&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://leetcard.jacoblin.cool/HanhFor4?theme=dark&font=ABeeZee" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nha261105&layout=compact&theme=tokyonight&hide_border=true" height="160"/> -->
 </p>
 
 
