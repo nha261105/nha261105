@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://hanhdev.vercel.app/)
 
 <br> <br>
-### 📊 GitHub Stats
+### 📊 GitHub Stats & 🧩 Leetcode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nha261105&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -37,7 +37,7 @@
 <!--END_SECTION:waka-->
 
 
-### 🧩 Mario Chill Zone
+### 🍄 Mario Chill Zone
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 
