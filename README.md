@@ -39,6 +39,6 @@
 ### 🧩 LeetCode Stats & Mario Chill Zone
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HanhFor4?theme=dark&font=ABeeZee&ext=heatmap)
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="320">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" height="320">
 
 
