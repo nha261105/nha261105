@@ -17,18 +17,15 @@ My name is Nguyen Hoang Anh. I'm a Backend Engineer Student.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1899 commits        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-🌆 Daytime                2221 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
-🌃 Evening                1981 commits        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-🌙 Night                  814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+🌞 Morning                1899 commits        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+🌆 Daytime                2221 commits        ████████░░░░░░░░░░░░░░░░░   32.11 % 
+🌃 Evening                1981 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌙 Night                  816 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
- Last Updated on 29/04/2026 19:54:17 UTC
+
+
 <!--END_SECTION:waka-->
