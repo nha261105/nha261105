@@ -14,12 +14,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://hanhdev.vercel.app/)
 
 <br> <br>
-### 📊 GitHub Stats & 🧩 Leetcode Stats
+<!-- ### 📊 GitHub Stats & 🧩 Leetcode Stats -->
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nha261105&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nha261105&show_icons=true&theme=tokyonight&hide_border=true" height="160"/-->
+  <img src= "https://stats.hyo.dev/api/github-stats-advanced?login=nha261105"/>
   &nbsp;
-  <img src="https://leetcard.jacoblin.cool/HanhFor4?theme=dark&font=ABeeZee" height="160"/>
+  <!-- <img src="https://leetcard.jacoblin.cool/HanhFor4?theme=dark&font=ABeeZee" height="160"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nha261105&layout=compact&theme=tokyonight&hide_border=true" height="160"/> -->
 </p>
 
