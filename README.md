@@ -29,6 +29,16 @@
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2026 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌆 Daytime                2487 commits        ████████░░░░░░░░░░░░░░░░░   32.80 % 
+🌃 Evening                2204 commits        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌙 Night                  866 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+```
+
+
 
 <!--END_SECTION:waka-->
 
